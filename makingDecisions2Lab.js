@@ -17,6 +17,8 @@ console.log(firstItem);
 */
 
 //Code Here
+let lastItemRemoved = arr.splice(5,1);
+console.log(arr);
 
 ////////// PROBLEM 3 //////////
 
